@@ -1,0 +1,33 @@
+{
+  "name": "wr",
+  "userAccounts": [
+    {
+      "password": "pw1234",
+      "accounts": [
+        {
+          "balance": 500,
+          "currency": "CAD"
+        },
+        {
+          "balance": 100,
+          "currency": "USD"
+        }
+      ],
+      "username": "user12"
+    },
+    {
+      "password": "pw2345",
+      "accounts": [
+        {
+          "balance": 100,
+          "currency": "USD"
+        },
+        {
+          "balance": 500,
+          "currency": "CAD"
+        }
+      ],
+      "username": "user23"
+    }
+  ]
+}
